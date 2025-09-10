@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <div>
-      Hello World!
+      Hello World
     </div>
   )
 }
